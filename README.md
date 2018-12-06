@@ -23,7 +23,9 @@ This package provides some configurations for maintaining consistent coding betw
 
 ## Starter Kits
 
-- [Starter Kits](starter-kits)
+- [HTML Offline Application](html/offline-application)
+- [Craft CMS](craftcms/starter-kit)
+- [React Native](react-native/starter-kit)
 
 ## Design Resources
 
