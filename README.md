@@ -23,6 +23,8 @@ This package provides some configurations for maintaining consistent coding betw
 
 ## Design Resources
 
+This package provides some design resources and usages like application icons for the web
+
 - [Design Resources](design-resources)
 
 ## Laboratory
