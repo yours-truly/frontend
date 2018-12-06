@@ -1,4 +1,4 @@
-# Frontend :hammer:
+# Frontend  :nut_and_bolt:
 Master repository for Yours Truly’s frontend development
 
 ## Technology Stack
