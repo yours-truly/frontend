@@ -1,4 +1,4 @@
-# Frontend  :nut_and_bolt:
+# :nut_and_bolt: Frontend
 Master repository for Yours Truly’s frontend development
 
 ## Technology Stack
