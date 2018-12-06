@@ -1,5 +1,5 @@
 # Frontend
-Master repository for Yours Truly’s frontend development
+Master repository for Yours Truly’s frontend development :construction_worker:
 
 ## Technology Stack
 - [Techonoly Stack](https://stackshare.io/yours-truly/yours-truly)
