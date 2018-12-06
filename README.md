@@ -5,8 +5,8 @@ Master repository for Yours Truly’s frontend development
 - [Techonoly Stack](https://stackshare.io/yours-truly/yours-truly)
 
 ## Guides
-- [CSS & Sass](css.md)
-- [JavaScript](javascript.md)
+- [CSS & Sass](guides/css.md)
+- [JavaScript](guides/javascript.md)
 
 ## Boilerplate
 
