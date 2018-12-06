@@ -12,6 +12,8 @@ Master repository for Yours Truly’s frontend development
 
 This package provides some configurations for maintaining consistent coding between different projects, editors and IDEs like Babel, ESLint, Git and others
 
+- [Boilerplate](boilerplate)
+
 ## Component Library
 - [Component Library](component-library)
 
