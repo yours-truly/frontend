@@ -27,6 +27,14 @@ This package provides some design resources and usages like application icons fo
 
 - [Design Resources](design-resources)
 
+## Placeholder
+
+Image placeholder using the GD Library
+
+- [Placeholder](placeholder)
+
 ## Laboratory
+
+Playground in HTML, CSS and JavaScript and best practices
 
 - [Laboratory](lab)
