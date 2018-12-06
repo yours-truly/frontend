@@ -4,7 +4,7 @@
 
 ## Anatomy
 
-[Config](config) > [Basic](base) > [Elements](elements) > [Modules](modules) > [Templates](templates) > [Pages](pages)
+[Config](#config) > [Basic](#base) > [Elements](#elements) > [Modules](#modules) > [Templates](#templates) > [Pages](#pages)
 
 ## Table of Contents
 
