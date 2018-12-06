@@ -33,8 +33,8 @@ Image placeholder using the GD Library
 
 - [Placeholder](placeholder)
 
-## Laboratory
+## Laboratory & Prototyping
 
 Playground in HTML, CSS and JavaScript and best practices
 
-- [Laboratory](lab)
+- [Laboratory & Prototyping](lab)
