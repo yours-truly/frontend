@@ -1,1 +1,3 @@
-# Playground in HTML, CSS and JavaScript
+# Laboratory
+
+*Playground in HTML, CSS and JavaScript and best practices*
