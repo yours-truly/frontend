@@ -1,6 +1,6 @@
 # Design Resources
 
-*Web design resources and usage*
+*Design resources and usage*
 
 ## App Icons for the Web
 
