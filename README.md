@@ -1,5 +1,5 @@
-# Frontend
-Master repository for Yours Truly’s frontend development :construction_worker:
+# :nut_and_bolt: Frontend
+Master repository for Yours Truly’s frontend development
 
 ## Technology Stack
 - [Techonoly Stack](https://stackshare.io/yours-truly/yours-truly)
