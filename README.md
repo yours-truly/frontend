@@ -1,10 +1,12 @@
-# :nut_and_bolt: Frontend
+# :hammer: Frontend
 Master repository for Yours Truly’s frontend development
 
 ## Technology Stack
 - [Techonoly Stack](https://stackshare.io/yours-truly/yours-truly)
 
 ## Guides
-- [HTML](html.md)
 - [CSS & Sass](css.md)
 - [JavaScript](javascript.md)
+
+## Component Library
+- [Component Library](component-library)
