@@ -1,4 +1,4 @@
-# :nut_and_bolt: Frontend
+# :wrench: Frontend
 Master repository for Yours Truly’s frontend development
 
 ## Technology Stack
