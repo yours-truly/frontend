@@ -10,3 +10,6 @@ Master repository for Yours Truly’s frontend development
 
 ## Component Library
 - [Component Library](component-library)
+
+## Laboratory
+- [Laboratory](lab)
