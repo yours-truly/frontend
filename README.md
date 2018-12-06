@@ -21,6 +21,10 @@ This package provides some configurations for maintaining consistent coding betw
 
 - [Component Library](component-library)
 
+## Starter Kits
+
+- [Starter Kits](starter-kits)
+
 ## Design Resources
 
 This package provides some design resources and usages like application icons for the web
