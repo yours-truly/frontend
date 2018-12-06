@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteBase /
+
+  RewriteRule ^(\d+)x(\d+)/?$ /index.php?width=$1&height=$2
+  RewriteRule ^(\d+)x(\d+)/(text=.*|style=.*|font=.*)/?$ /index.php?width=$1&height=$2&$3
+
+  RewriteRule ^(\d+)x(\d+)/([a-fA-F0-9]{3}|[a-fA-F0-9]{6})/?$ /index.php?width=$1&height=$2&bgColor=$3
+  RewriteRule ^(\d+)x(\d+)/([a-fA-F0-9]{3}|[a-fA-F0-9]{6})/(text=.*|style=.*|font=.*)/?$ /index.php?width=$1&height=$2&bgColor=$3&$4
+
+  RewriteRule ^(\d+)x(\d+)/([a-fA-F0-9]{3}|[a-fA-F0-9]{6})/([a-fA-F0-9]{3}|[a-fA-F0-9]{6})/?$ /index.php?width=$1&height=$2&bgColor=$3&textColor=$4
+  RewriteRule ^(\d+)x(\d+)/([a-fA-F0-9]{3}|[a-fA-F0-9]{6})/([a-fA-F0-9]{3}|[a-fA-F0-9]{6})/(text=.*|style=.*|font=.*)/?$ /index.php?width=$1&height=$2&bgColor=$3&textColor=$4&$5
+
+  ErrorDocument 404 /index.php
+</IfModule>
