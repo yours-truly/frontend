@@ -2,6 +2,8 @@
 
 *Design resources and usage*
 
-## App Icons for the Web
+## Web Apps
 
 - [web-app-icons.sketch](web-app-icons.sketch)
+
+## Native Apps
