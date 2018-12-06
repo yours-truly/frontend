@@ -1,4 +1,4 @@
-# :hammer: Frontend
+# Frontend :hammer:
 Master repository for Yours Truly’s frontend development
 
 ## Technology Stack
