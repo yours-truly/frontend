@@ -29,11 +29,11 @@ HTML
 
 Craft CMS
 
-- [Craft CMS Starter Kit](starter-kits/craftcms/starter-kit)
+- [Starter Kit](starter-kits/craftcms/starter-kit)
 
 React Native
 
-- [React Native Starter Kit](starter-kits/react-native/starter-kit)
+- [Starter Kit](starter-kits/react-native/starter-kit)
 
 ## Design Resources
 
