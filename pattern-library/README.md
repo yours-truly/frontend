@@ -1,6 +1,6 @@
 # Pattern Library
 
-*Yours Truly Design System*
+*Pattern Library is a design system that helps teams build digital experiences*
 
 ## Anatomy
 
