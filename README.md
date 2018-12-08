@@ -17,9 +17,9 @@ This package provides some configurations for maintaining consistent coding betw
 
 - [Boilerplate](boilerplate)
 
-## Component Library
+## Pattern Library
 
-- [Component Library](component-library)
+- [Pattern Library](pattern-library)
 
 ## Starter Kits
 
