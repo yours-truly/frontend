@@ -14,10 +14,8 @@ ini_set('memory_limit', -1);
 
 function createImage() {
 	global $width, $height, $bgColor;
-
 	$image = @imagecreate($width, $height) or die ('The image could not be created.');
 	$background = imagecolorallocate($image, $bgColor[0], $bgColor[1], $bgColor[2]);
-
 	return $image;
 }
 
