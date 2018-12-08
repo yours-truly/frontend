@@ -1,4 +1,4 @@
-# Component Library
+# Pattern Library
 
 *Yours Truly Design System*
 
