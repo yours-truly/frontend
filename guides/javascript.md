@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-  1. [Types](#types)
+1. [Types](#types)
     - [Lorem Ipsum](#lorem-ipsum)
-  1. [References](#references)
+1. [References](#references)
   
 ## Types
 
