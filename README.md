@@ -19,6 +19,8 @@ This package provides some configurations for maintaining consistent coding betw
 
 ## Pattern Library
 
+Pattern Library is a design system that helps teams build digital experiences
+
 - [Pattern Library](pattern-library)
 
 ## Starter Kits
