@@ -6,6 +6,8 @@
 
 - [Techonoly Stack](https://stackshare.io/yours-truly/yours-truly)
 
+!(https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/docker.svg)
+
 ## Guides
 
 - [CSS & Sass](guides/css.md)
