@@ -10,7 +10,7 @@
 
 ### Config
 
-Global configuration variables
+Global UI configuration
 
 ### Basis
 
